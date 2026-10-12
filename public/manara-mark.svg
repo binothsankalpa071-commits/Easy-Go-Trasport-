@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Manara mark">
+  <rect width="256" height="256" rx="64" fill="#081e33"/>
+  <path d="M48 160V92c0-9 7-16 16-16h84c9 0 16 7 16 16v68" fill="none" stroke="#62d8e8" stroke-width="16" stroke-linecap="round"/>
+  <path d="M64 76V52h36v24M164 76V52h28v24" fill="none" stroke="#f5bd5a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 160h144" stroke="#f5bd5a" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="76" cy="180" r="16" fill="#f5bd5a"/><circle cx="160" cy="180" r="16" fill="#f5bd5a"/>
+  <path d="M80 112h56M80 132h36" stroke="#081e33" stroke-width="10" stroke-linecap="round"/>
+</svg>
